@@ -1,0 +1,86 @@
+header{
+	background-color: #ffffff;
+	height: 50px;
+	box-shadow: 0px 1px 1px #e3ddde; 
+	margin-bottom: 25px;
+}
+header>h3{
+	margin-top:0;
+	margin-bottom: 0;
+	padding-left: 10%;
+	width: 20%;
+	line-height: 50px;
+	float: left;
+	cursor: pointer;
+}
+header>h3>a:hover{
+    text-decoration: none;
+}
+header>h3 span:first-child{
+	color:#f86d87;
+	font-weight: bold;
+}
+header>h3 span:last-child{
+	color:#409eff;
+}
+header .search{
+	float: right;
+	width: 20%;
+	line-height: 50px;
+	position: relative;
+}
+header .search input{
+	width: 85%;
+	padding-left:15px;
+	background:none;  
+	outline:none;  
+	height: 30px;
+	border:1px solid #666;
+	border-radius: 8px;
+}
+header .search i{
+	font-size:20px;
+	display: inline-block;
+	width: 15%;
+	padding-left:5px;
+	position: absolute;
+	top:14px;
+	cursor:pointer;
+}
+header .search i:hover{
+	color:#409eff;
+
+}
+header .nav-box{
+	float: right;
+}
+
+header .nav-box ul li{
+	float: left;
+	height: 100%;
+	line-height: 50px;
+	text-align: center;
+}
+header .nav-box ul li:first-child{
+	position: relative;
+}
+header .nav-box ul li .icon-sort{
+	position: absolute;
+	right: 10px;
+	top:20px;
+	font-size: 10px;
+	color: #ccc;
+}
+header .nav-box ul li a{
+	color: #777;
+	text-decoration: none;
+	display: inline-block;
+	width: 90px;
+	height: 100%;
+	padding:0 10px;
+	font-size: 17px;
+
+}
+header .nav-box ul li a:hover{
+	color:#409eff;
+}

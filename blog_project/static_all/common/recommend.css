@@ -1,0 +1,59 @@
+.side{
+	width: 25%;	
+	float: left;
+	margin-left: 5%;
+}
+.side h1{
+	font-size: 20px;
+	line-height: 30px;
+	margin-bottom: 10px;
+	padding-left: 15px;
+	border-left: 4px solid #409eff;
+}
+.side .recommend {
+	box-shadow: 0px 0px 2px #777;
+	border-radius: 5px;
+	background-color: #fff;
+}
+.side .recommend ul li{
+	cursor: pointer;
+	border-bottom: 1px dashed #ccc;
+}
+.side .recommend ul li:last-child{
+	border: none;
+	padding-bottom: 15px;
+}
+.side .recommend ul li h2{
+	font-size: 16px;
+	line-height: 25px;
+	padding-left: 15px;	
+}
+.side .recommend ul li h2 a{
+	color: #000;
+}
+.side .recommend ul li a:hover,.side .recommend ul li span:hover{
+	color:#409eff;
+
+}
+.side .recommend ul li .operate{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.side .recommend ul li a{
+	text-decoration: none;
+	color:#666;
+}
+.side .recommend ul li .operate span{
+	display: block;
+	float: right;
+	font-size: 12px;
+}
+.side .recommend ul li .operate span:first-child{
+	float: left;
+}
+.side .recommend ul li .operate span i{
+	margin: 0 4px;
+}
+.side .recommend ul li .operate span a{
+	margin-right:6px;
+}

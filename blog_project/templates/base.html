@@ -1,0 +1,71 @@
+{% load static  %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+   <meta name="keywords" content="建鹏_金建鹏_前端" />
+<meta name="description" content="建鹏个人博客，处于开发阶段" />
+	<link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{% static 'index/index.css' %}">
+	<link rel="stylesheet" href="{% static 'global.css' %}">
+	<link rel="stylesheet" href="{% static 'common/header.css' %}">
+	<link rel="stylesheet" href="{% static 'common/footer.css' %}">
+    {% block custom_css %}{% endblock %}
+</head>
+<body>
+    {% include 'header.html' %}
+    <main>
+        <ul class="content">
+            {% block content_left %}{% endblock %}
+        </ul>
+		<div class="side">
+			<div class="side-myinfo">
+				<h3 class="side-myinfo-title">我的名片</h3>
+				<div class="side-myinfo-content">
+					<ul>
+						<li>职业：后台开发程序员</li>
+						<li>现居：浙江-杭州</li>
+						<li>手机：15968849411</li>
+						<li>github:https://github.com/JanzenKin</li>
+					</ul>
+				</div>
+
+			</div>
+			<div class="side-timesort">
+				<h2 class="htitle">时光轴</h2>
+				<ul>
+                    {% for archive in distinct_date_list %}
+					    <li><a href="{% url 'archive'%}?year={{archive | slice:':4'}}&month={{archive | slice:'5:7'}}">{{archive}}</a></li>
+                    {% endfor %}
+				</ul>
+			</div>
+			<div class="side-sort">
+				<h2 class="htitle">分类</h2>
+				<ul>
+					<li><a href="">HTML</a></li>
+					<li><a href="">CSS</a></li>
+					<li><a href="" >Javascript</a></li>
+					<li><a href="">操作系统</a></li>
+					<li><a href="" >数据库</a></li>
+					<li><a href="" >数据结构</a></li>
+					<li><a href="">算法</a></li>
+					<li><a href="">java</a></li>
+				</ul>
+			</div>
+			<div class="side-recomand">
+				<h2 class="htitle">作者推荐文章</h2>
+				<ul>
+					<li><a href="">Java中的内存回收与内存泄漏的防治</a></li>
+					<li><i></i><a href="">如何理解数据库操作流程</a></li>
+					<li><i></i><a href="" >如何更好的使用算法</a></li>
+					<li><i></i><a href="">python实用技巧</a></li>
+					<li><i></i><a href="" >如何设计数据库</a></li>
+				</ul>
+			</div>
+		</div>
+	</main>
+    {% include 'footer.html' %}
+ {% block custom_js %}{% endblock %}
+</body>
+</html>

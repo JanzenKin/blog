@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% load static  %}
+{% block content_left %}
+			<h2 class="htitle">最新博文</h2>
+            {%  for article in lastest_articles %}
+			<li class="subcontent">
+				<h3><a href="{% url 'detail' %}?id={{article.pk}}">{{ article.title }}</a></h3>
+				<div class="subcontent-con">
+					<div class="subcontent-con-left">
+						<p>{{ article.abstract}} <a href="{% url 'detail' %}?id={{article.pk}}">阅读更多</a></p>
+						<p class="operate">
+							<span class="published_time"><a href="">{{article.published_time | date:'Y-m-d'}}</a></span>
+							<span class="readings"><i class="glyphicon glyphicon-eye-open"></i><a href="">{{ article.readings }} 阅读</a></span>
+							<span class="comments"><i class="glyphicon glyphicon-comment"></i><a href="">{{ article.comments_set.count }} 评论</a></span>
+							<span class="likes"><i class="glyphicon glyphicon-heart"></i><a href="">{{ article.likes }} 赞</a></span>
+						</p>
+					</div>
+					<div class="subcontent-con-right">
+						<img src="/uploads/{{ article.graph }}" alt="">
+					</div>
+				</div>
+			</li>
+		    {% endfor %}
+			<div class="lookmore"><form action=""><input type="submit" value="查看更多"></form></div>
+    {% endblock %}

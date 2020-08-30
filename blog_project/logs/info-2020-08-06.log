@@ -1,0 +1,5 @@
+[2020-08-06 10:29:43,715] [views.py:36] [views:archive] [ERROR]- unsupported operand type(s) for +: 'NoneType' and 'str'
+[2020-08-06 15:57:34,864] [views.py:72] [views:comment_post] [ERROR]- 'author'
+[2020-08-06 16:08:17,018] [views.py:72] [views:comment_post] [ERROR]- 'author'
+[2020-08-06 16:11:50,035] [views.py:72] [views:comment_post] [ERROR]- 'author'
+[2020-08-06 16:12:48,390] [views.py:72] [views:comment_post] [ERROR]- (1048, "Column 'com_flag' cannot be null")

@@ -1,0 +1,146 @@
+main{
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+main .content{
+	padding: 20px 0;
+	width: 75%;
+}
+main .content h2{
+	margin-top:0;
+}
+main .content ul li{
+	padding-right: 5px;
+	cursor: pointer;
+}
+main .content ul li>i{
+	margin-right: 5px;
+	margin-left: 5px;
+}
+main .content ul li:nth-child(1),main .content ul li:nth-child(2){
+	float: left;
+}
+.content li:nth-child(3), .content  li:nth-child(4), .content  li:nth-child(5){
+	float: right;
+}
+.content li:nth-child(3):hover, .content  li:nth-child(4):hover, .content  li:nth-child(5):hover{
+	color: #409eff;
+}
+main .content .abstract{
+	padding: 20px 15px;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	border-radius: 2px;
+	margin-bottom: 20px;
+}
+main .content>p{
+	line-height: 1.8em;
+	letter-spacing: 2px;
+}
+main .content>div.clearfix{
+	border-bottom: 2px dashed #ccc;
+	margin-bottom: 15px;
+	line-height: 20px;
+}
+main .content .update{
+	float: right;
+	
+}
+main .content img{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.comments{
+	margin-bottom: 25px;
+}
+.comments textarea{
+	padding: 5px 10px;
+}
+main .content>ul{
+	width: 100%;
+}
+
+main .discuss{
+	background-color: #fff;
+	box-shadow: 1px 1px 2px #ccc;
+	border-radius: 5px;
+	padding: 15px 20px;
+	overflow: hidden;
+	margin-bottom: 15px;
+}
+main .discuss img{
+	height: auto;
+	border-radius: 35px;
+	display: block;
+	float: left;
+	width: 12.5%;
+}
+main .discuss .info{
+	float: left;
+	width: 87.5%;
+	padding-left: 25px;
+}
+main .discuss .info>p{
+
+}
+main .discuss .info .other-info{
+	line-height: 35px;
+}
+main .discuss .operate{
+	overflow: hidden;
+}
+main .discuss .operate p{
+	float: left;
+}
+main .discuss .operate p:hover{
+	color: #409eff;
+}
+main .discuss .operate i{
+	margin-right: 5px;
+}
+main .discuss .operate span{
+	margin-right: 15px;
+}
+main .content>ul li.discuss{
+	width: 100%;
+}
+main .side-menu{
+	border-radius: 5px;
+	background-color: #fff;
+	position: fixed;
+	right: 10%;
+	width: 16%;
+	top:100px;
+	
+}
+main .side-menu h2.menu{
+	padding:0 15px;
+	margin-top: 0;
+	font-size: 20px;
+	line-height: 35px;
+}
+main .side-menu ul li{
+	padding:0 15px;
+}
+.menu-actived{
+	border-left: 3px solid #409eff;
+}
+@keyframes mymove{
+	from{
+		top:100px;
+	}
+	to{
+		top:35px;
+	}
+
+}
+@keyframes mymove1{
+	from{
+		top:35px;
+	}
+	to{
+		top:100px;
+	}
+
+}

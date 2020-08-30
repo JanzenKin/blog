@@ -1,0 +1,512 @@
+[2020-08-03 08:58:45,797] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 08:58:48,855] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8172
+[2020-08-03 08:58:48,909] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/index/index.css HTTP/1.1" 304 0
+[2020-08-03 08:58:48,910] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/global.css HTTP/1.1" 304 0
+[2020-08-03 08:58:48,915] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/header.css HTTP/1.1" 304 0
+[2020-08-03 08:58:48,922] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/footer.css HTTP/1.1" 304 0
+[2020-08-03 08:58:48,968] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/index/img/java.jpg HTTP/1.1" 304 0
+[2020-08-03 08:58:48,992] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/footer.js HTTP/1.1" 304 0
+[2020-08-03 08:58:49,256] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/imgs/qq.jpg HTTP/1.1" 304 0
+[2020-08-03 08:58:49,257] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/imgs/wx.png HTTP/1.1" 304 0
+[2020-08-03 08:58:49,602] [log.py:222] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2020-08-03 08:58:49,603] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /favicon.ico HTTP/1.1" 404 2092
+[2020-08-03 08:58:54,008] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 4954
+[2020-08-03 08:58:54,032] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 4954
+[2020-08-03 08:58:54,072] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2020-08-03 08:58:54,072] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[2020-08-03 08:58:54,077] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[2020-08-03 08:58:54,122] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[2020-08-03 08:58:54,292] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2020-08-03 08:58:54,292] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2020-08-03 08:58:54,351] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[2020-08-03 08:58:54,351] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[2020-08-03 08:58:54,351] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[2020-08-03 09:01:47,658] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:01:49,027] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:01:54,533] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:01:55,499] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:02:12,233] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:02:13,693] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:02:46,024] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:02:47,013] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:02:50,854] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:02:51,958] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:02:55,613] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 4954
+[2020-08-03 09:02:56,558] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 3168
+[2020-08-03 09:02:56,618] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[2020-08-03 09:02:56,625] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,629] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,629] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,634] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,634] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,642] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:02:56,643] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,646] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,647] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2020-08-03 09:02:56,850] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[2020-08-03 09:02:58,711] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 4984
+[2020-08-03 09:02:58,760] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[2020-08-03 09:02:58,761] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[2020-08-03 09:02:58,768] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:02:58,773] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2020-08-03 09:02:58,878] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[2020-08-03 09:03:09,910] [log.py:222] [log:log_response] [ERROR]- Internal Server Error: /admin/blog/article/add/
+Traceback (most recent call last):
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\mysql\base.py", line 74, in execute
+    return self.cursor.execute(query, args)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\cursors.py", line 163, in execute
+    result = self._query(query)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\cursors.py", line 321, in _query
+    conn.query(q)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 505, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 724, in _read_query_result
+    result.read()
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 1069, in read
+    first_packet = self.connection._read_packet()
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 676, in _read_packet
+    packet.raise_for_error()
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\protocol.py", line 223, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.IntegrityError: (1048, "Column 'sort_id' cannot be null")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "E:\PCprogram\blog_project\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\contrib\admin\options.py", line 607, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\views\decorators\cache.py", line 44, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\contrib\admin\sites.py", line 231, in inner
+    return view(request, *args, **kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\contrib\admin\options.py", line 1638, in add_view
+    return self.changeform_view(request, None, form_url, extra_context)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\utils\decorators.py", line 43, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\utils\decorators.py", line 130, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\contrib\admin\options.py", line 1522, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\contrib\admin\options.py", line 1565, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\contrib\admin\options.py", line 1081, in save_model
+    obj.save()
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\models\base.py", line 745, in save
+    self.save_base(using=using, force_insert=force_insert,
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\models\base.py", line 782, in save_base
+    updated = self._save_table(
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\models\base.py", line 887, in _save_table
+    results = self._do_insert(cls._base_manager, using, fields, returning_fields, raw)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\models\base.py", line 924, in _do_insert
+    return manager._insert(
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\models\manager.py", line 82, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\models\query.py", line 1204, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\models\sql\compiler.py", line 1392, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\utils.py", line 100, in execute
+    return super().execute(sql, params)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\utils.py", line 68, in execute
+    return self._execute_with_wrappers(sql, params, many=False, executor=self._execute)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\utils.py", line 77, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\utils.py", line 90, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\utils.py", line 86, in _execute
+    return self.cursor.execute(sql, params)
+  File "E:\PCprogram\blog_project\lib\site-packages\django\db\backends\mysql\base.py", line 74, in execute
+    return self.cursor.execute(query, args)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\cursors.py", line 163, in execute
+    result = self._query(query)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\cursors.py", line 321, in _query
+    conn.query(q)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 505, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 724, in _read_query_result
+    result.read()
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 1069, in read
+    first_packet = self.connection._read_packet()
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\connections.py", line 676, in _read_packet
+    packet.raise_for_error()
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\protocol.py", line 223, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "E:\PCprogram\blog_project\lib\site-packages\pymysql\err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.IntegrityError: (1048, "Column 'sort_id' cannot be null")
+[2020-08-03 09:03:09,924] [basehttp.py:157] [basehttp:log_message] [ERROR]- "POST /admin/blog/article/add/ HTTP/1.1" 500 275426
+[2020-08-03 09:03:24,662] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 4984
+[2020-08-03 09:03:25,958] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 3168
+[2020-08-03 09:03:28,024] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:05:38,776] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:05:39,788] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:05:42,431] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:05:43,527] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:05:54,530] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:05:55,635] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:05:58,709] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:06:00,331] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 3168
+[2020-08-03 09:06:00,393] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:06:01,910] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 4984
+[2020-08-03 09:06:01,957] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:06:11,765] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:06:12,851] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:12:58,689] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 8969
+[2020-08-03 09:12:58,744] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:13:02,816] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/sort/add/?_to_field=sort_id&_popup=1 HTTP/1.1" 200 3057
+[2020-08-03 09:13:02,873] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:13:11,611] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/blog/sort/add/?_to_field=sort_id&_popup=1 HTTP/1.1" 200 369
+[2020-08-03 09:13:11,669] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/popup_response.js HTTP/1.1" 200 569
+[2020-08-03 09:13:45,827] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/user/add/?_to_field=uid&_popup=1 HTTP/1.1" 200 4052
+[2020-08-03 09:13:45,921] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:13:58,046] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/blog/user/add/?_to_field=uid&_popup=1 HTTP/1.1" 200 375
+[2020-08-03 09:14:00,235] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/blog/article/add/ HTTP/1.1" 302 0
+[2020-08-03 09:14:00,339] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5155
+[2020-08-03 09:14:00,396] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:14:00,639] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[2020-08-03 09:14:03,843] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:14:05,661] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 4960
+[2020-08-03 09:14:05,715] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:14:06,772] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:14:07,584] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/sort/ HTTP/1.1" 200 4325
+[2020-08-03 09:14:07,636] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:14:08,387] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:14:09,575] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/user/ HTTP/1.1" 200 4370
+[2020-08-03 09:14:09,624] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:14:11,145] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:14:12,162] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/comments/ HTTP/1.1" 200 3170
+[2020-08-03 09:14:12,215] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:14:13,758] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/comments/add/ HTTP/1.1" 200 8594
+[2020-08-03 09:14:13,805] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:14:38,888] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/blog/comments/add/ HTTP/1.1" 302 0
+[2020-08-03 09:14:38,947] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/comments/ HTTP/1.1" 200 4521
+[2020-08-03 09:14:39,009] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:14:41,755] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:15:32,656] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:15:33,741] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 4960
+[2020-08-03 09:15:33,809] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:15:38,227] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:26:24,900] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:26:25,918] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:30:47,725] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:30:48,958] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:30:54,066] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:30:55,028] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:31:04,672] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 09:31:06,662] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 4960
+[2020-08-03 09:31:06,715] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:31:09,902] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 9046
+[2020-08-03 09:31:09,957] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:31:13,685] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 9046
+[2020-08-03 09:32:23,793] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\admin.py changed, reloading.
+[2020-08-03 09:32:24,909] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:32:33,455] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8172
+[2020-08-03 09:32:37,392] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 9299
+[2020-08-03 09:32:37,465] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/lang/zh-CN.js HTTP/1.1" 200 8528
+[2020-08-03 09:32:37,471] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/kindeditor-all-min.js HTTP/1.1" 200 186001
+[2020-08-03 09:32:37,477] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 142
+[2020-08-03 09:32:37,495] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:32:37,702] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/default/default.css HTTP/1.1" 200 20773
+[2020-08-03 09:32:39,833] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 9299
+[2020-08-03 09:33:34,126] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 9299
+[2020-08-03 09:33:34,200] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:33:34,200] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 154
+[2020-08-03 09:33:34,687] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/default/default.png HTTP/1.1" 200 8299
+[2020-08-03 09:33:45,260] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/add/ HTTP/1.1" 200 9299
+[2020-08-03 09:33:45,328] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:33:45,331] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 155
+[2020-08-03 09:33:56,131] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5213
+[2020-08-03 09:33:59,266] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5213
+[2020-08-03 09:33:59,337] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 09:33:59,342] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:34:02,298] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9793
+[2020-08-03 09:34:02,355] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 09:34:02,360] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:34:05,915] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/emoticons/images/0.gif HTTP/1.1" 200 1810
+[2020-08-03 09:34:05,916] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/emoticons/images/static.gif HTTP/1.1" 200 35504
+[2020-08-03 09:34:06,158] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/emoticons/images/9.gif HTTP/1.1" 200 3298
+[2020-08-03 09:34:06,190] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/emoticons/images/10.gif HTTP/1.1" 200 3716
+[2020-08-03 09:34:06,335] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/emoticons/images/19.gif HTTP/1.1" 200 8135
+[2020-08-03 09:34:06,975] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/emoticons/images/20.gif HTTP/1.1" 200 1808
+[2020-08-03 09:34:10,931] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/default/background.png HTTP/1.1" 200 1410
+[2020-08-03 09:34:10,969] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/align_top.gif HTTP/1.1" 200 625
+[2020-08-03 09:34:10,969] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/refresh.png HTTP/1.1" 200 800
+[2020-08-03 09:34:10,970] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/align_left.gif HTTP/1.1" 200 639
+[2020-08-03 09:34:10,971] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/align_right.gif HTTP/1.1" 200 636
+[2020-08-03 09:34:18,222] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/common/loading.gif HTTP/1.1" 200 2608
+[2020-08-03 09:34:18,246] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /static/js/kindeditor/php/upload_json.php?dir=image HTTP/1.1" 404 1736
+[2020-08-03 09:34:28,325] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/blog/article/1/change/ HTTP/1.1" 302 0
+[2020-08-03 09:34:28,390] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5552
+[2020-08-03 09:34:28,464] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 09:34:28,469] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:34:38,270] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 09:34:38,335] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 09:34:38,343] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:34:41,677] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5355
+[2020-08-03 09:34:41,732] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 09:38:45,305] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\settings.py changed, reloading.
+[2020-08-03 09:38:46,401] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:13,994] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:14,969] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:20,131] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:21,133] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:26,040] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:26,995] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:29,495] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:30,423] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:35,281] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:36,192] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:39,905] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:40,992] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:43,588] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:44,602] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:49,559] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:50,606] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:54,275] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:55,270] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:40:57,773] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:40:58,819] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:03,810] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:04,801] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:09,803] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:10,812] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:19,371] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:20,383] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:25,329] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:26,349] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:27,691] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:28,795] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:32,617] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:33,688] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:37,354] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:38,452] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 09:41:56,762] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 09:41:57,777] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:22:09,461] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:22:55,488] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:23:34,636] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:25:16,399] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:25:31,993] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 10:25:33,031] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:25:48,542] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:26:04,198] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 10:26:05,168] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:26:10,167] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:26:45,940] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 10:26:47,798] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5355
+[2020-08-03 10:26:47,864] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:26:47,865] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 223
+[2020-08-03 10:26:52,328] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:26:52,379] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:27:05,844] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/uploads/kindeditor
+[2020-08-03 10:27:05,845] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/uploads/kindeditor?dir=image HTTP/1.1" 404 4828
+[2020-08-03 10:27:49,419] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/uploads/kindeditor
+[2020-08-03 10:27:49,425] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/uploads/kindeditor?dir=image HTTP/1.1" 404 4828
+[2020-08-03 10:29:17,473] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:29:17,522] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 220
+[2020-08-03 10:29:17,530] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:29:25,396] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/upload/kindeditor
+[2020-08-03 10:29:25,397] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 404 4825
+[2020-08-03 10:29:49,101] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:29:49,149] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:29:49,150] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 221
+[2020-08-03 10:30:00,109] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/uploads/kindeditor
+[2020-08-03 10:30:00,109] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/uploads/kindeditor?dir=image HTTP/1.1" 404 4828
+[2020-08-03 10:32:23,525] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\settings.py changed, reloading.
+[2020-08-03 10:32:24,482] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:33:04,077] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/uploads/kindeditor
+[2020-08-03 10:33:04,078] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/uploads/kindeditor?dir=image HTTP/1.1" 404 4828
+[2020-08-03 10:34:21,656] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:34:21,715] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:34:21,719] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 220
+[2020-08-03 10:34:28,814] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/upload/kindeditor
+[2020-08-03 10:34:28,815] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 404 4825
+[2020-08-03 10:35:49,505] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 10:35:50,539] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:35:55,234] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:35:55,301] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:35:55,306] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 10:36:01,858] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/upload/kindeditor
+[2020-08-03 10:36:01,859] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 404 4824
+[2020-08-03 10:36:17,605] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:36:19,757] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog HTTP/1.1" 301 0
+[2020-08-03 10:36:19,918] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/ HTTP/1.1" 200 3696
+[2020-08-03 10:36:21,275] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5355
+[2020-08-03 10:36:21,317] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 10:36:21,325] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:36:22,579] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:36:22,630] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:36:28,698] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/upload/kindeditor
+[2020-08-03 10:36:28,699] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 404 4824
+[2020-08-03 10:42:54,093] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 10:42:55,023] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:46:40,924] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 10:46:41,954] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:46:45,365] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:46:45,442] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 10:46:45,450] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:46:53,411] [log.py:222] [log:log_response] [WARNING]- Not Found: /admin/upload/kindeditor
+[2020-08-03 10:46:53,412] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 404 4820
+[2020-08-03 10:48:40,434] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog_project\urls.py changed, reloading.
+[2020-08-03 10:48:43,722] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 10:48:50,850] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:48:50,909] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 10:48:50,917] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:48:56,525] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 10:49:44,927] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5355
+[2020-08-03 10:49:44,982] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:49:46,459] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:49:46,525] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:49:57,277] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8172
+[2020-08-03 10:50:01,446] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 6435
+[2020-08-03 10:50:01,807] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 6435
+[2020-08-03 10:50:03,551] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5355
+[2020-08-03 10:50:03,602] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:50:04,813] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:50:04,858] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:50:14,849] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 10:51:26,878] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 10:52:39,567] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 10:52:39,635] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 220
+[2020-08-03 10:52:39,641] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 10:52:48,136] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 10:56:01,963] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 10:58:16,712] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 11:02:50,930] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 11:02:51,010] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 11:02:51,011] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:05:09,796] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /static/admi HTTP/1.1" 404 1638
+[2020-08-03 11:05:13,380] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /static/admin HTTP/1.1" 404 1632
+[2020-08-03 11:11:48,747] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 11:11:48,827] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:11:48,834] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 11:12:00,403] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 11:12:51,100] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 11:12:51,170] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:13:03,994] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 11:15:42,850] [log.py:222] [log:log_response] [WARNING]- Not Found: /uploads/8
+[2020-08-03 11:15:42,851] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /uploads/8 HTTP/1.1" 404 1756
+[2020-08-03 11:16:18,961] [log.py:222] [log:log_response] [WARNING]- Not Found: /uploads/kindedtor/2020/8
+[2020-08-03 11:16:18,962] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /uploads/kindedtor/2020/8 HTTP/1.1" 404 1801
+[2020-08-03 11:16:39,180] [log.py:222] [log:log_response] [WARNING]- Not Found: /uploads/kindedtor/2020/8/2dd4ac2c-d535-11ea-90a1-98e7f45077a5.jpg
+[2020-08-03 11:16:39,180] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /uploads/kindedtor/2020/8/2dd4ac2c-d535-11ea-90a1-98e7f45077a5.jpg HTTP/1.1" 404 1924
+[2020-08-03 11:17:00,887] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /uploads/kindeditor/2020/8/2dd4ac2c-d535-11ea-90a1-98e7f45077a5.jpg HTTP/1.1" 200 43425
+[2020-08-03 11:17:07,866] [log.py:222] [log:log_response] [WARNING]- Not Found: /uploads/kindedtor
+[2020-08-03 11:17:07,867] [basehttp.py:157] [basehttp:log_message] [WARNING]- "GET /uploads/kindedtor HTTP/1.1" 404 1780
+[2020-08-03 11:17:09,970] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8172
+[2020-08-03 11:17:12,372] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 6435
+[2020-08-03 11:17:12,829] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 6435
+[2020-08-03 11:17:15,443] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5355
+[2020-08-03 11:17:15,508] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 304 0
+[2020-08-03 11:17:15,511] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:17:17,005] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 11:17:17,057] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:18:39,484] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 11:28:49,350] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 11:28:49,449] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[2020-08-03 11:28:49,450] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/forms.css HTTP/1.1" 304 0
+[2020-08-03 11:28:49,465] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,470] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,477] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:28:49,477] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[2020-08-03 11:28:49,478] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,483] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,484] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,484] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 223
+[2020-08-03 11:28:49,488] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,490] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,491] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,504] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[2020-08-03 11:28:49,612] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/widgets.css HTTP/1.1" 304 0
+[2020-08-03 11:28:49,625] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/change_form.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,631] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[2020-08-03 11:28:49,673] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[2020-08-03 11:28:49,674] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[2020-08-03 11:28:49,719] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[2020-08-03 11:28:49,719] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[2020-08-03 11:28:49,720] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[2020-08-03 11:28:58,492] [basehttp.py:157] [basehttp:log_message] [WARNING]- "POST /static/js/kindeditor/php/upload_json.php?dir=image HTTP/1.1" 404 1736
+[2020-08-03 11:29:24,529] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 11:29:24,598] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 222
+[2020-08-03 11:29:24,603] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:29:31,014] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 11:30:28,592] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 11:30:30,029] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET / HTTP/1.1" 200 8172
+[2020-08-03 11:30:30,097] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/global.css HTTP/1.1" 200 315
+[2020-08-03 11:30:30,099] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/footer.css HTTP/1.1" 200 400
+[2020-08-03 11:30:30,129] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/index/index.css HTTP/1.1" 200 3484
+[2020-08-03 11:30:30,133] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/header.css HTTP/1.1" 200 1367
+[2020-08-03 11:30:30,140] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/index/img/java.jpg HTTP/1.1" 200 14991
+[2020-08-03 11:30:30,165] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/footer.js HTTP/1.1" 200 761
+[2020-08-03 11:30:30,425] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/imgs/wx.png HTTP/1.1" 200 18240
+[2020-08-03 11:30:30,431] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/common/imgs/qq.jpg HTTP/1.1" 200 21794
+[2020-08-03 11:30:33,230] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin HTTP/1.1" 301 0
+[2020-08-03 11:30:33,372] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 6435
+[2020-08-03 11:30:33,426] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[2020-08-03 11:30:33,431] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/ HTTP/1.1" 200 6435
+[2020-08-03 11:30:33,445] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+[2020-08-03 11:30:33,447] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+[2020-08-03 11:30:33,526] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[2020-08-03 11:30:33,696] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[2020-08-03 11:30:33,696] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[2020-08-03 11:30:33,746] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[2020-08-03 11:30:33,746] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[2020-08-03 11:30:33,747] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[2020-08-03 11:30:38,495] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/ HTTP/1.1" 200 5355
+[2020-08-03 11:30:38,559] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:30:38,559] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/kindeditor-all-min.js HTTP/1.1" 200 186001
+[2020-08-03 11:30:38,563] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/lang/zh-CN.js HTTP/1.1" 200 8528
+[2020-08-03 11:30:38,574] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/config.js HTTP/1.1" 200 222
+[2020-08-03 11:30:38,576] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[2020-08-03 11:30:38,594] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/changelists.css HTTP/1.1" 200 6190
+[2020-08-03 11:30:38,630] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+[2020-08-03 11:30:38,630] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/core.js HTTP/1.1" 200 5723
+[2020-08-03 11:30:38,631] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/actions.js HTTP/1.1" 200 6766
+[2020-08-03 11:30:38,631] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/urlify.js HTTP/1.1" 200 8941
+[2020-08-03 11:30:38,633] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+[2020-08-03 11:30:38,682] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 287630
+[2020-08-03 11:30:38,708] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[2020-08-03 11:30:38,746] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/default/default.css HTTP/1.1" 200 20773
+[2020-08-03 11:30:38,847] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[2020-08-03 11:30:40,268] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/blog/article/1/change/ HTTP/1.1" 200 9935
+[2020-08-03 11:30:40,329] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /admin/jsi18n/ HTTP/1.1" 200 7722
+[2020-08-03 11:30:40,369] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/forms.css HTTP/1.1" 200 8518
+[2020-08-03 11:30:40,393] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/change_form.js HTTP/1.1" 200 712
+[2020-08-03 11:30:40,442] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/css/widgets.css HTTP/1.1" 200 10322
+[2020-08-03 11:30:40,442] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 495
+[2020-08-03 11:30:40,588] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/emoticons/images/20.gif HTTP/1.1" 200 1808
+[2020-08-03 11:30:40,687] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/default/default.png HTTP/1.1" 200 8299
+[2020-08-03 11:30:42,482] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/default/background.png HTTP/1.1" 200 1410
+[2020-08-03 11:30:42,516] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/align_top.gif HTTP/1.1" 200 625
+[2020-08-03 11:30:42,517] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/refresh.png HTTP/1.1" 200 800
+[2020-08-03 11:30:42,517] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/align_left.gif HTTP/1.1" 200 639
+[2020-08-03 11:30:42,517] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/plugins/image/images/align_right.gif HTTP/1.1" 200 636
+[2020-08-03 11:30:48,522] [basehttp.py:157] [basehttp:log_message] [INFO]- "GET /static/js/kindeditor/themes/common/loading.gif HTTP/1.1" 200 2608
+[2020-08-03 11:30:48,548] [basehttp.py:157] [basehttp:log_message] [INFO]- "POST /admin/upload/kindeditor?dir=image HTTP/1.1" 200 90
+[2020-08-03 11:32:20,875] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\models.py changed, reloading.
+[2020-08-03 11:32:21,990] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 11:33:26,404] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\models.py changed, reloading.
+[2020-08-03 11:33:27,366] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 11:33:32,340] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\models.py changed, reloading.
+[2020-08-03 11:33:33,370] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 11:35:49,321] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\blog\models.py changed, reloading.
+[2020-08-03 11:35:50,358] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 11:44:00,237] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 11:45:59,179] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\Lib\site-packages\PIL\_binary.py changed, reloading.
+[2020-08-03 11:46:00,133] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2020-08-03 12:03:18,082] [autoreload.py:222] [autoreload:trigger_reload] [INFO]- E:\PCprogram\blog_project\Lib\site-packages\PIL\_version.py changed, reloading.
+[2020-08-03 12:03:19,065] [autoreload.py:598] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader

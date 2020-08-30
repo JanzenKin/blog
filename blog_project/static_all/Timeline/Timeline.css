@@ -1,0 +1,99 @@
+main{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.content{
+	width: 70%;
+	float: left;
+}
+.content .year{
+	font-size:24px;
+	line-height: 80px;
+	position: relative;
+}
+.content .year i{
+	color: #409eff;
+	margin-right: 8px;
+}
+.content .year i::after{
+	content: '';
+	width: 4px;
+	height: 30px;
+	background-color: #409eff;
+	position: absolute;
+	left: 10px;
+	top:28px;
+	border-radius: 1px;
+
+
+}
+.content .year span
+{
+	padding: 0 5px;
+}
+.content .month{
+	font-size:18px;
+	line-height: 35px;
+	position: relative;
+}
+.content .month i{
+	color: #409eff;
+	margin-right: 8px;
+}
+.content .month i::after{
+	content: '';
+	width: 4px;
+	height: 175px;
+	background-color: #409eff;
+	position: absolute;
+	left: 10px;
+	top:25px;
+	border-radius: 1px;
+}
+.content .month span
+{
+	padding: 0 5px;
+}
+.content .day{
+	padding-left: 40px;
+}
+.content .day span{
+	font-size: 12px;
+	display: inline-block;
+	padding: 2px 8px ;
+	background-color: #fff;
+	border-radius: 3px;
+	border:1px solid #ccc;
+}
+.content .day a{
+	color:#666;
+	display: inline-block;
+	padding: 0 10px;
+	margin-left: 5px;
+	font-size: 15px;
+}
+.content .day a:hover{
+	text-decoration: none;
+	color:  #409eff;
+}
+.content .day ul li{
+	padding: 5px 0;
+}
+.content .years{
+	margin-bottom: 25px;
+}
+.content .seemore{
+	text-align: center;
+}
+.content #seemore{
+	border: 1px solid #ccc;
+	background-color:#fff;
+	padding: 10px 25px;
+	border-radius: 3px;
+
+}
+.content #seemore:hover{
+	background-color:#409eff;
+	color: #fff;
+}

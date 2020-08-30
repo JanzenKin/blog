@@ -1,0 +1,189 @@
+
+
+main{
+	width: 80%;
+	margin: 0 auto;
+	height: auto;
+	display: flex;
+}
+main .content{
+	flex:8;
+	background: #ffffff;
+	margin-right: 20px;
+	border-radius: 3px;
+	box-shadow: 0px 0px 1px 1px #e3ddde; 
+	padding: 20px;
+}
+
+/* content 与 side 标题是共同样式*/
+main  h2{
+	width: 100%;
+	margin: 0;
+	border-bottom: 1px solid #e3ddde;
+}
+main .htitle{
+	font-size: 16px;
+	color:#484848;
+	position: relative;
+	padding-bottom: 10px;
+}
+main  .htitle:after{
+	content: '';
+	width: 60px;
+	height: 2px;
+	background-color: #000;
+	position: absolute;
+	bottom:0;
+	left:0;
+
+}
+main .subcontent{
+	width: 100%;
+	margin-bottom: 15px;
+	border-bottom: 1px dashed #e3ddde;
+}
+main .subcontent h3 {
+	width:100%;
+	line-height: 30px;
+	font-size: 19px;
+}
+main .subcontent h3 a:hover{
+	color:#409eff;
+    text-decoration: none;
+}
+
+main .subcontent .subcontent-con{
+	display: flex;
+	flex-direction: row;
+}
+main .subcontent .subcontent-con-left{
+	padding-top:15px;
+	flex: 10;
+	/*border:1px solid black;*/
+	padding-right: 18px;
+}
+main .subcontent .subcontent-con-left>p>a{
+	color:#409eff;
+}
+main .subcontent .subcontent-con-left>p>span>a{
+	display: inline-block;
+	padding: 0 8px;
+	
+}
+main .subcontent .subcontent-con-left>p>span>a:hover{
+	color:#409eff;
+	text-decoration: none;
+	
+}
+main .subcontent .subcontent-con-left .operate{
+	margin-top: 15px;
+}
+.operate .glyphicon{
+	font-size: 12px;
+}
+main .subcontent .subcontent-con-right{
+	flex:2;
+/*	border:1px solid black;*/
+
+}
+
+main .subcontent .subcontent-con-right img{
+	max-width: 100%;
+}
+main .lookmore input{
+	background: none;
+	display: block;
+	margin: 0 auto;
+	border:1px solid #409eff;
+	padding: 10px 15px;
+	border-radius: 5px;
+
+}
+main .lookmore input:hover{
+	background: #409eff;
+	color: #fff;
+}
+/*content end*/
+
+/*side start*/
+
+main .side{
+	flex: 4;
+	
+}
+main .side>div{
+	background: #ffffff;
+	border-radius: 3px;
+	box-shadow: 0px 0px 1px 1px #e3ddde;
+	/*height: 250px;*/
+	margin-bottom: 15px;
+}
+main .side .side-myinfo{
+	width: 100%;
+	background:rgba(42,42,42,1);
+	padding: 15px;
+}
+main .side-myinfo-title{
+	color: #89919a;
+}
+main .side h3{
+	margin-top: 0;
+}
+main .side-myinfo-content{
+	color:#d0d2d4;
+	font-size: 13px;
+}
+
+main .side-timesort,.side-sort,.side-recomand{
+	padding: 15px;
+
+}
+main .side-timesort ul li,.side-sort ul li,.side-recomand ul li{
+	width: 100%;
+	line-height: 30px;
+	position: relative;
+
+}
+main .side-timesort ul li a,.side-sort ul li a,.side-recomand ul li a{
+	display: block;
+	width: 100%;
+	font-size: 14px;
+	border-radius: 4px;
+	padding-left: 10px;
+}
+main .side-timesort ul li a:hover,.side-sort ul li a:hover,.side-recomand ul li a:hover{
+	background: #409eff;
+	color:#fff;
+	text-decoration: none;
+
+}
+.side-recomand ul li::before{
+	content: '';
+	position: absolute;
+	top:10px;
+	width: 10px;
+	height: 10px;
+	border-radius: 5px;
+}  
+.side-recomand ul li:nth-child(1)::before{
+	background-color: #ffc107;	
+}
+.side-recomand ul li:nth-child(2)::before{
+	background-color: #ff07c1;	
+}
+.side-recomand ul li:nth-child(3)::before{
+	background-color: #07ffc1;	
+}
+.side-recomand ul li:nth-child(4)::before{
+	background-color:  #c1ff07;	
+}
+.side-recomand ul li:nth-child(5)::before{
+	background-color:  #c107ff;	
+}
+.side-recomand ul li a{
+	padding-left: 20px;
+}
+.side-recomand ul li:hover::before{
+	background-color: #fff;
+}
+/*side end*/

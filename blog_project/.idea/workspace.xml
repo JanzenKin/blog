@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb3b3755-360f-4c58-a9ff-7c5f4e7fe927" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="useSoftWraps" value="true" />
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="Blue" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fWTWtXaJuNdN6KF36RhN4wTZoA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PCprogram\blog_project\static\js\kindeditor" />
+      <recent name="E:\PCprogram\blog_project\static\js" />
+      <recent name="E:\PCprogram\blog_project\static\js\kindeditor-4.1.5" />
+      <recent name="E:\PCprogram\blog_project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\PCprogram\blog_project\static" />
+      <recent name="E:\PCprogram\blog_project\templates" />
+      <recent name="E:\PCprogram\blog_project\blog" />
+      <recent name="E:\PCprogram\blog_project\static\js" />
+      <recent name="E:\PCprogram\blog_project" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="blog_project" type="Python.DjangoServer" factoryName="Django server">
+      <module name="blog_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="blog_project.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb3b3755-360f-4c58-a9ff-7c5f4e7fe927" name="Default Changelist" comment="" />
+      <created>1596332883230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596332883230</updated>
+      <workItem from="1596333017995" duration="14827000" />
+      <workItem from="1596416261198" duration="10935000" />
+      <workItem from="1596612000561" duration="19526000" />
+      <workItem from="1596674979370" duration="19147000" />
+      <workItem from="1596724110621" duration="347000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596632035223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1596632035223" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1596678961265">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1596678961265" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1596716622105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596716622105" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1596716622105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1596716622105" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1596716622105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1596716622105" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1596716622105">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1596716622105" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1596638166496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1596638166496" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1596638166496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1596638166496" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1596638166496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1596638166496" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1596638166496">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1596638166496" />
+    <state x="213" y="107" width="992" height="717" key="SettingsEditor" timestamp="1596613870495">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="213" y="107" width="992" height="717" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1596613870495" />
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1596724110668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596724110668" />
+    <state x="381" y="17" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596687667136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="381" y="17" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1596687667136" />
+  </component>
+</project>

@@ -1,0 +1,51 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="{% static  'global.css' %}">
+	<link rel="stylesheet" href="{% static  'common/header.css' %}">
+	<link rel="stylesheet" href="{% static  'common/footer.css' %}">
+	<link rel="stylesheet" href="{% static  'Timeline/Timeline.css' %}">
+	<link rel="stylesheet" href="{% static  'common/recommend.css' %}">
+	<link rel="stylesheet" href="{% static 'aboutme/aboutme.css' %}">
+	<title>Document</title>
+</head>
+<body>
+	{% include 'header.html' %}
+	<main class="clearfix">
+		<div class="content">
+			<div class="blog">
+				<h3>博客简介：</h3>
+				<p>程 序：基于Django开发的个人博客程序</p>
+				<p>域 名：www.pengqq.com，创建于2020</p>
+				<p>服务器：阿里云轻量级应用服务器(4G)</p>
+			</div>
+			<div class="goal">
+				<h3>搭建博客目的:</h3>
+				<p>计算机、互联网这一类的东西，很多很庞杂，要想全部记住是不可能的事。所以在上大学不久，我就使用为知笔记、有道云或者OneNote这些笔记工具记录自己的笔记，方便自己什么时候遗忘了，再拿起来看看， 这是最开始的目的。随着接触互联网的东西越来越多，分享这个词在我的身边越来越多的被提及，CSDN、博客园等等博客网站出现在我的眼前，我开始觉得，自己写的东西，如果能够实实在在的帮助到别人， 那才是我记录的意义。所以我一边在自己的小本本上记录，一边开始注册博客网站的账号，开始在网络上写博客。</p>
+				<p>为什么开始做自己的网站，我记得有一天很晚了，我发现网络上关于某一块的知识很少，并不全面，我从下午一直写到了晚上，废寝忘食，晚上十点左右，我写完了，将博客发出去的时候，心里参数一口气。 于是我开始把博客链接分享给别人，以为会对别人有帮助，结果发现404，我那时才知道原来CSDN的博客，竟然是要审核的，与此同时，CSDN网站的广告越来越多。</p>
+				<p>于是我开始做自己的网站，当时好像才大二吧，我啥都不会，看着很多大神的个人博客网站花里胡哨，心有余而力不足。偶然间发现了HEXO这个静态博客，于是开始各种设计，各种DIY。在使用了快一年后，我发现了 它的问题，由于是静态博客，编辑很不方便，需要自己在本地编辑，然后上传，由于是静态服务器托管在GitHub或者Coding，访问速度可想而知。于是有了您现在所看到的。</p>
+				<p>我不认为个人博客网站需要多漂亮美丽，“内涵”很重要，如果装饰的很花哨，而内容平平一般，我觉得博客分享的意义便不复存在
+				</p>
+			</div>
+			<div class="resume">
+				<h3>个人简介:</h3>
+				<p>姓名：建鹏</p>
+				<p>性别：男</p>
+				<p>年龄98后</p>
+				<p>专业:软件工程</p>
+				<p>职业：暂无</p>
+				<p>1.无忧无虑过了大学3年专科生活，学习方面涉及不多</p>
+				<p>2.本科期间一直努力寻找学习方向，随着认知变化，方向也在变化。原本从人工智能到现在软件开发。</p>
+				<p>3.每天浏览大量优质博客，而自己还没能有实力做到，到会暗自伤心，自卑，但是重来没有放弃</p>
+				<p>4.个人名言：不去做永远不知道自己能不能做到。</p>
+			</div>
+		</div>
+		{% include 'recommend.html' %}
+	</main>
+	{% include 'footer.html' %}
+</body>
+</html>
